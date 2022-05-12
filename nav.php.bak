@@ -1,8 +1,0 @@
-<h1>Police Emergency Service System</h1>
-<nav id="Headerstyle">
-		<a herf="logcall.php">Log call</a>
-		<a herf="Update.php">Update</a>
-		<a herf="#">Report</a>
-		<a herf="#">History</a>
-</nav>
-		
